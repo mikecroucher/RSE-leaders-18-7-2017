@@ -3,7 +3,7 @@
 ## Registration
 
 If you haven't registered, don't turn up because we may not have enough space / food for you.
-Speak to Claire or Mike for registration link
+Speak to Claire or Mike Croucher for registration link
 
 ## Agenda
 
@@ -16,7 +16,7 @@ Alternative activity: Blog post about anything else in RSE that you’d like to 
 * 3:30 - 4:00 Group activity: What GetItDone sessions could we have in future events?
 * 4:00 -> close  - AOB
  
-** AOB **
+ ## AOB 
 
 * EPSRC SAT call: https://www.epsrc.ac.uk/about/governance/recruitment/membershipsab/vacancies/
  
