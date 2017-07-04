@@ -20,6 +20,11 @@ Speak to Claire or Mike Croucher for registration link
 Alternative activity: Blog post about anything else in RSE that you’d like to highlight.  These will be published on the SSI blog.
 * 3:30 - 4:00 Group activity: What GetItDone sessions could we have in future events?
 * 4:00 -> close  - AOB
+
+## Pub
+
+After the meeting, we will take the tram to the Sheffield Tap: http://www.sheffieldtap.com/
+A great pub on Platform 1 of the train station.
  
  ## AOB 
 
