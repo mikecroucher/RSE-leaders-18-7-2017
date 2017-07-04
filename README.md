@@ -14,7 +14,7 @@ Speak to Claire or Mike Croucher for registration link
 
 * 10:30 Coffee and Registration, 
 * 11:00 Start. Talk from Jez Cope of the University Library. 
-* 11.30 Fellowship debrief
+* 11.30 Fellowship debrief, including Skype call from Katherine Freeman from EPSRC at 12pm.
 * 12:30 Lunch
 * 2:00-3:30 Group blog post: Write a public summary of what’s happened in your RSE group over the last 12 months? (This will feed into the next RSE-N ‘State of the Nation’ report)
 Alternative activity: Blog post about anything else in RSE that you’d like to highlight.  These will be published on the SSI blog.
