@@ -1,3 +1,5 @@
+
+
 # RSE-leaders-18-7-2017
 
 ## Things change 
@@ -37,3 +39,13 @@ http://www.bbsrc.ac.uk/news/people-skills-training/2017/170621-n-call-for-pool-o
 Design Suite (124) in Portobello Centre 1 Mappin St, Sheffield S1 4DT.
 
 Google Map: https://www.google.co.uk/maps/place/The+John+Carr+Design+Centre+at+The+Portobello+Centre/@53.3808946,-1.4785067,15z/data=!4m12!1m6!3m5!1s0x0:0xd50c5155ba50b8cf!2sThe+John+Carr+Design+Centre+at+The+Portobello+Centre!8m2!3d53.3808946!4d-1.4785067!3m4!1s0x0:0xd50c5155ba50b8cf!8m2!3d53.3808946!4d-1.4785067
+
+## Travel by Car 
+
+The travel information at http://www.sheffield.ac.uk/visitors/mapsandtravel/car is a good starting point. Thee are links to park and ride and to campus maps. University visitor parking is very limited and is best arranged well in advance. The best options are:
+
+a) use the park and ride service via tram (which is a very smooth and efficient service) as described on the park and ride link from the above page.
+
+b) use the new QPark multi-storey car park on Durham Road, between the University and the Children's hospital. (lower centre on thecampus map)
+
+c) use council parking on Broad Lane, near the nanoscience and technology centre (Upper right on the campus map)
