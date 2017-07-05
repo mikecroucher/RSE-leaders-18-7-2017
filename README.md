@@ -34,4 +34,6 @@ http://www.bbsrc.ac.uk/news/people-skills-training/2017/170621-n-call-for-pool-o
  
 ## Location 
 
-Meeting room 1 in Diamond (third Floor), https://www.sheffield.ac.uk/diamond, 32 Leavygreave Rd, Sheffield S3 7RD.
+Design Suite (124) in Portobello Centre 1 Mappin St, Sheffield S1 4DT.
+
+Google Map: https://www.google.co.uk/maps/place/The+John+Carr+Design+Centre+at+The+Portobello+Centre/@53.3808946,-1.4785067,15z/data=!4m12!1m6!3m5!1s0x0:0xd50c5155ba50b8cf!2sThe+John+Carr+Design+Centre+at+The+Portobello+Centre!8m2!3d53.3808946!4d-1.4785067!3m4!1s0x0:0xd50c5155ba50b8cf!8m2!3d53.3808946!4d-1.4785067
